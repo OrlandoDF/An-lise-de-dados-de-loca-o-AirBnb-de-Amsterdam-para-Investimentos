@@ -7,16 +7,18 @@
 
 ## Ánalise de dados AirBnb de Amsterdam para Investimentos Imobiliários
 
-Este projeto tem como objetivo a ánalise dos dados de locação pelo AirBnb para investimentos imobiliários. Os investimentos imobiliários são aqueles realizados no mercado imobiliário, por meio da compra de um imóvel ou terrenos, visando obter renda com aluguel, alienação ou simplesmente moradia. Esta modalidade de investimento é a forma mais segura de rentabillidade devido ao baixo risco comparados ao mercado de ações, renda fixa ou fundos imobiliários. 
+Este projeto tem como objetivo a ánalise dos dados de locação pelo AirBnb para investimentos imobiliários. Os investimentos imobiliários são aqueles realizados no mercado imobiliário, por meio da compra de um imóvel ou terrenos, visando obter renda com aluguel, alienação ou simplesmente moradia. Esta modalidade de investimento é a forma mais segura de rentabillidade devido ao baixo risco comparados ao mercado de ações, renda fixa ou fundos imobiliários.
+
 A cidade de Amsterdam, localizado na Holanda (Europa), sendo um das cidades mais procuradas pelo turismo. No ano de 2019 foram em média 19 milhões de pessoas que visitaram a cidade ao ano. Sendo a querida do roteiro de turismo, devido ao seus bares, casas noturnas, sex shops, arquitetura antiga, coffeshops entre outros. 
 A importância desta análise, serve como base para investidores de imóveis (incorporadoras ou investidores) para melhor localização ou lugares de expansão de valorização de imóveis. Como também para abertura de empreendimentos como coffeshops, bares ou lojas.
+
 Os dados extraídos pelo Inside AirBnb, plataforma de dados do AirBnb para visualização de dados de locação. Foram utilizados os seguintes dados para análise:
 * Bairros
 * Tipo de empreendimento (Apartamento ou casa, hotéis ou quarto compartilhado)
 * Preço médio de locação
 * Diárias mínimas de locação
 
- 
+ A partir das análises de dados, verificou-se a média dos preços de locação AirBnb em Amsterdam é de R$ 1.222,98 na cotação atual (10/01/2023), e a mediana R$ 1.009,80. Esses valores é referente a análise de 6.983 dados no qual tem valores no valor de R$ 400,00. Os va
 
 <p align="center">
   <img src=""imagem maneira relacionada ao projeto"height=400px >
