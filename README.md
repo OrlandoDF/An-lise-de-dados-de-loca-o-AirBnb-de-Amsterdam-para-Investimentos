@@ -18,14 +18,11 @@ Os dados extraídos pelo Inside AirBnb, plataforma de dados do AirBnb para visua
 * Preço médio de locação
 * Diárias mínimas de locação
 
- A partir das análises de dados, verificou-se a média dos preços de locação AirBnb em Amsterdam é de R$ 1.222,98 na cotação atual (10/01/2023), e a mediana R$ 1.009,80. Esses valores é referente a análise de 6.983 dados no qual tem valores no valor de locação a partir de R$ 300,00. Com isso verificou-se os principais bairros que possuem maior disponibilidade para locação são:
- 
- * 
+ A partir das análises de dados, verificou-se a média dos preços de locação AirBnb em Amsterdam é de R$ 1.222,98 na cotação atual (10/01/2023), e a mediana R$ 1.009,80. Esses valores é referente a análise de 6.983 dados no qual tem valores no valor de locação a partir de R$ 300,00. Com isso verificou-se os principais bairros que possuem maior disponibilidade para locação são: Centrum-West, Centrum-Oost, De Pijp - Rivierenbuurt, Zuid, Oud-Noord, Westerpark, IJburg - Zeeburgereiland, Geuzenveld - Slotermeer, 
 
 <p align="center">
-  <img src="![Img](https://user-images.githubusercontent.com/121446688/212122103-8c5ba680-fb85-4c51-aabd-d0491bb6cbf6.png)
-"height=400px >
-</p>
+  <img src="https://github.com/OrlandoDF/Analise_de_dados_AirBnb_de_Amsterdam_para_Investimentos_Imobiliarios/blob/main/Img.png"height=400px >
+ </p>
 
 [Link para o projeto completo](https://medium.com/@rafaelnduarte)
 
