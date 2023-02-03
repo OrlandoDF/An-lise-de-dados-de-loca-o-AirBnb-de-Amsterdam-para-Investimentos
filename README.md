@@ -18,29 +18,14 @@ Os dados extraídos pelo Inside AirBnb, plataforma de dados do AirBnb para visua
 * Preço médio de locação
 * Diárias mínimas de locação
 
- A partir das análises de dados, verificou-se a média dos preços de locação AirBnb em Amsterdam é de R$ 1.222,98 na cotação atual (10/01/2023), e a mediana R$ 1.009,80. Esses valores é referente a análise de 6.983 dados no qual tem valores no valor de locação a partir de R$ 300,00. Com isso verificou-se os principais bairros que possuem maior disponibilidade para locação são: Centrum-West, Centrum-Oost, De Pijp - Rivierenbuurt, Zuid, Oud-Noord, Westerpark, IJburg - Zeeburgereiland, Geuzenveld - Slotermeer, 
+ A partir das análises de dados, verificou-se a média dos preços de locação AirBnb em Amsterdam é de R$ 1.222,98 na cotação atual (10/01/2023), e a mediana R$ 1.009,80. Esses valores é referente a análise de 6.983 dados no qual tem valores no valor de locação a partir de R$ 300,00. Com isso, os principais bairros que possuem maior disponibilidade para locação são: Centrum-West, Centrum-Oost, De Pijp - Rivierenbuurt, Zuid, Oud-Noord, Westerpark, IJburg - Zeeburgereiland, Geuzenveld - Slotermeer.
+ 
+Outro fator de análise é a média de diária mínima de locação, que foi de 5 noites, ou seja, uma boa rentabilização mensal. Sendo um fator determinante aos investidores imobiliários! Com relação ao preço médio, varia de acordo com o empreendimento sendo de alto a baixo padrão, no qual define qual público o investidor quer investir. 
 
-<p align="center">
+A imagem abaixo mostra as localizações do empreendimento, sendo este o primeiro fator referente a valorização imobiliária e a busca de locações dos clientes. Como também a escassez do terreno na região, a cada ano os imóveis são valorizados. Como também mostra a tendência das regiões que estão sendo investidos e valorizados.
+ 
+ <p align="center">
   <img src="https://github.com/OrlandoDF/Analise_de_dados_AirBnb_de_Amsterdam_para_Investimentos_Imobiliarios/blob/main/Img.png"height=400px >
  </p>
-
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
-
-**Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [Outro artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
-
-
-
-
-## Outros Projetos Meus:
-
-Business
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
-
-* **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
  
-* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
+ Conclui-se que a utilização dos bancos de dados obtidos, mostra a importância para as incorporadoras e investidores, aberturas de novos empreendimentos e negócios, as regiões mais procuradas e valorizadas no ambito de imóveis. Ou seja, um excelente negócio a investidores de imóveis para rentabilidade anual e valorização constante do imóvel para futura revenda.
